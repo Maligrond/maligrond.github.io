@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://maligrond.github.io/categories/</loc>
-  </url><url>
-    <loc>https://maligrond.github.io/</loc>
-  </url><url>
-    <loc>https://maligrond.github.io/tags/</loc>
-  </url>
+  
+    
+      <url>
+            <loc>/</loc>
+            <lastmod>2023-02-15T18:38:33-07:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/pervi-post/</loc>
+            <lastmod>2023-02-15T18:38:33-07:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/</loc>
+            <lastmod>2023-02-15T18:36:59-07:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
 </urlset>
