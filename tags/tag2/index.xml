@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>tag2 on Блог Кабана</title>
-        <link>http://kaban.blog/tags/tag2/</link>
+        <link>https://kaban.blog/tags/tag2/</link>
         <description>Recent content in tag2 on Блог Кабана</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ru-ru</language>
-        <lastBuildDate>Wed, 15 Feb 2023 18:38:33 -0700</lastBuildDate><atom:link href="http://kaban.blog/tags/tag2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Feb 2023 18:38:33 -0700</lastBuildDate><atom:link href="https://kaban.blog/tags/tag2/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>1st post</title>
-        <link>http://kaban.blog/blog/1st/</link>
+        <link>https://kaban.blog/blog/1st/</link>
         <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
         
-        <guid>http://kaban.blog/blog/1st/</guid>
-        <description>&lt;img src="http://kaban.blog/blog/1st/image.jpg" alt="Featured image of post 1st post" /&gt;&lt;h1 id=&#34;welcome-to-stackedit&#34;&gt;Welcome to StackEdit!&lt;/h1&gt;
+        <guid>https://kaban.blog/blog/1st/</guid>
+        <description>&lt;img src="https://kaban.blog/blog/1st/image.jpg" alt="Featured image of post 1st post" /&gt;&lt;h1 id=&#34;welcome-to-stackedit&#34;&gt;Welcome to StackEdit!&lt;/h1&gt;
 &lt;p&gt;Hi! I&amp;rsquo;m your first Markdown file in &lt;strong&gt;StackEdit&lt;/strong&gt;. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the &lt;strong&gt;file explorer&lt;/strong&gt; on the left corner of the navigation bar.&lt;/p&gt;
 &lt;h1 id=&#34;synchronization&#34;&gt;Synchronization&lt;/h1&gt;
 &lt;p&gt;Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your &lt;strong&gt;Google Drive&lt;/strong&gt;, your &lt;strong&gt;Dropbox&lt;/strong&gt; and your &lt;strong&gt;GitHub&lt;/strong&gt; accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow&amp;hellip; The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.&lt;/p&gt;
@@ -78,10 +78,10 @@ $$&lt;/p&gt;
         </item>
         <item>
         <title>2nd post</title>
-        <link>http://kaban.blog/blog/2nd/</link>
+        <link>https://kaban.blog/blog/2nd/</link>
         <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
         
-        <guid>http://kaban.blog/blog/2nd/</guid>
+        <guid>https://kaban.blog/blog/2nd/</guid>
         <description>&lt;h1 id=&#34;files&#34;&gt;Files&lt;/h1&gt;
 &lt;p&gt;StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;раз два три&lt;/p&gt;

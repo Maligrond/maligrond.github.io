@@ -2,45 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://kaban.blog/blog/1st/</loc>
+    <loc>https://kaban.blog/blog/1st/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/blog/2nd/</loc>
+    <loc>https://kaban.blog/blog/2nd/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/blog/3rd/</loc>
+    <loc>https://kaban.blog/blog/3rd/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/blog/4th/</loc>
+    <loc>https://kaban.blog/blog/4th/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/blog/5th/</loc>
+    <loc>https://kaban.blog/blog/5th/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/blog/6th/</loc>
+    <loc>https://kaban.blog/blog/6th/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/blog/</loc>
+    <loc>https://kaban.blog/blog/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/tags/tag1/</loc>
+    <loc>https://kaban.blog/tags/tag1/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/tags/tag2/</loc>
+    <loc>https://kaban.blog/tags/tag2/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/tags/</loc>
+    <loc>https://kaban.blog/tags/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/</loc>
+    <loc>https://kaban.blog/</loc>
     <lastmod>2023-02-15T18:38:33-07:00</lastmod>
   </url><url>
-    <loc>http://kaban.blog/categories/</loc>
+    <loc>https://kaban.blog/categories/</loc>
   </url><url>
-    <loc>http://kaban.blog/page/</loc>
+    <loc>https://kaban.blog/page/</loc>
   </url><url>
-    <loc>http://kaban.blog/page/lox/search/</loc>
-  </url><url>
-    <loc>http://kaban.blog/page/search/search/</loc>
+    <loc>https://kaban.blog/page/search/search/</loc>
   </url>
 </urlset>
