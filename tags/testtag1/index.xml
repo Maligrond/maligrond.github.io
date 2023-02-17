@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>testtag1 on Блог Кабана</title>
+    <link>https://kaban.blog/tags/testtag1/</link>
+    <description>Recent content in testtag1 on Блог Кабана</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>by Кабан</copyright>
+    <lastBuildDate>Wed, 15 Feb 2023 18:38:33 -0700</lastBuildDate><atom:link href="https://kaban.blog/tags/testtag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3rd post</title>
+      <link>https://kaban.blog/blog/3rd/</link>
+      <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
+      
+      <guid>https://kaban.blog/blog/3rd/</guid>
+      <description>Create files and folders The file explorer is accessible using the button in left corner of the navigation bar.</description>
+    </item>
+    
+  </channel>
+</rss>

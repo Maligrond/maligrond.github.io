@@ -26,5 +26,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>testtag1</title>
+      <link>https://kaban.blog/tags/testtag1/</link>
+      <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
+      
+      <guid>https://kaban.blog/tags/testtag1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
