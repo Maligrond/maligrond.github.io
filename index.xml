@@ -5,7 +5,7 @@
     <link>https://kaban.blog/</link>
     <description>Recent content on Блог Кабана</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
+    <language>en</language>
     <copyright>by Кабан</copyright>
     <lastBuildDate>Wed, 15 Feb 2023 18:38:33 -0700</lastBuildDate><atom:link href="https://kaban.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
       
       <guid>https://kaban.blog/blog/2nd/</guid>
-      <description>Files StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible offline!</description>
+      <description>Files #StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible offline!</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
       
       <guid>https://kaban.blog/blog/3rd/</guid>
-      <description>Create files and folders The file explorer is accessible using the button in left corner of the navigation bar.</description>
+      <description>Create files and folders #The file explorer is accessible using the button in left corner of the navigation bar.</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
       
       <guid>https://kaban.blog/blog/4th/</guid>
-      <description>Synchronize a file Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification.</description>
+      <description>Synchronize a file #Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification.</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@
       <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
       
       <guid>https://kaban.blog/blog/5th/</guid>
-      <description>UML diagrams You can render UML diagrams using Mermaid.</description>
+      <description>UML diagrams #You can render UML diagrams using Mermaid.</description>
     </item>
     
     <item>
