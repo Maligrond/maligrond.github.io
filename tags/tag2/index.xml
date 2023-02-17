@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag2 on Блог Кабана</title>
-    <link>/tags/tag2/</link>
+    <link>https://kaban.blog/tags/tag2/</link>
     <description>Recent content in tag2 on Блог Кабана</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>by Кабан</copyright>
-    <lastBuildDate>Wed, 15 Feb 2023 18:38:33 -0700</lastBuildDate><atom:link href="/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 18:38:33 -0700</lastBuildDate><atom:link href="https://kaban.blog/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1st post</title>
-      <link>/blog/1st/</link>
+      <link>https://kaban.blog/blog/1st/</link>
       <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
       
-      <guid>/blog/1st/</guid>
+      <guid>https://kaban.blog/blog/1st/</guid>
       <description>Welcome to StackEdit!</description>
     </item>
     
     <item>
       <title>2nd post</title>
-      <link>/blog/2nd/</link>
+      <link>https://kaban.blog/blog/2nd/</link>
       <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
       
-      <guid>/blog/2nd/</guid>
+      <guid>https://kaban.blog/blog/2nd/</guid>
       <description>Files StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible offline!</description>
     </item>
     

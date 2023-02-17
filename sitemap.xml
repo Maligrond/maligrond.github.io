@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>/</loc>
+            <loc>https://kaban.blog/</loc>
             <lastmod>2023-02-15T18:38:33-07:00</lastmod>
             <priority>0</priority>
           </url>
@@ -12,7 +12,7 @@
   
     
       <url>
-            <loc>/blog/</loc>
+            <loc>https://kaban.blog/blog/</loc>
             <lastmod>2023-02-15T18:38:33-07:00</lastmod>
             <priority>0</priority>
           </url>
@@ -22,55 +22,48 @@
   
     
       <url>
-            <loc>/blog/1st/</loc>
+            <loc>https://kaban.blog/blog/1st/</loc>
             <lastmod>2023-02-15T18:38:33-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/blog/2nd/</loc>
+            <loc>https://kaban.blog/blog/2nd/</loc>
             <lastmod>2023-02-15T18:38:33-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/blog/3rd/</loc>
+            <loc>https://kaban.blog/blog/3rd/</loc>
             <lastmod>2023-02-15T18:38:33-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/blog/4th/</loc>
+            <loc>https://kaban.blog/blog/4th/</loc>
             <lastmod>2023-02-15T18:38:33-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/blog/5th/</loc>
+            <loc>https://kaban.blog/blog/5th/</loc>
             <lastmod>2023-02-15T18:38:33-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/blog/6th/</loc>
+            <loc>https://kaban.blog/blog/6th/</loc>
             <lastmod>2023-02-15T18:38:33-07:00</lastmod>
           </url>
     
   
     
   
-    
-  
-    
-      <url>
-            <loc>/about/</loc>
-            <priority>0</priority>
-          </url>
     
   
     
