@@ -1,308 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Blogs on Блог Кабана</title>
-        <link>https://kaban.blog/blog/</link>
-        <description>Recent content in Blogs on Блог Кабана</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>ru-ru</language>
-        <lastBuildDate>Wed, 15 Feb 2023 18:38:33 -0700</lastBuildDate><atom:link href="https://kaban.blog/blog/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>1st post</title>
-        <link>https://kaban.blog/blog/1st/</link>
-        <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
-        
-        <guid>https://kaban.blog/blog/1st/</guid>
-        <description>&lt;img src="https://kaban.blog/blog/1st/image.jpg" alt="Featured image of post 1st post" /&gt;&lt;h1 id=&#34;welcome-to-stackedit&#34;&gt;Welcome to StackEdit!&lt;/h1&gt;
-&lt;p&gt;Hi! I&amp;rsquo;m your first Markdown file in &lt;strong&gt;StackEdit&lt;/strong&gt;. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the &lt;strong&gt;file explorer&lt;/strong&gt; on the left corner of the navigation bar.&lt;/p&gt;
-&lt;h1 id=&#34;synchronization&#34;&gt;Synchronization&lt;/h1&gt;
-&lt;p&gt;Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your &lt;strong&gt;Google Drive&lt;/strong&gt;, your &lt;strong&gt;Dropbox&lt;/strong&gt; and your &lt;strong&gt;GitHub&lt;/strong&gt; accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow&amp;hellip; The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.&lt;/p&gt;
-&lt;p&gt;There are two types of synchronization and they can complement each other:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;To start syncing your workspace, just sign in with Google in the menu.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The file synchronization will keep one file of the workspace synced with one or multiple files in &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt; or &lt;strong&gt;GitHub&lt;/strong&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Before starting to sync files, you must link an account in the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;open-a-file&#34;&gt;Open a file&lt;/h2&gt;
-&lt;p&gt;You can open a file from &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt; or &lt;strong&gt;GitHub&lt;/strong&gt; by opening the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu and clicking &lt;strong&gt;Open from&lt;/strong&gt;. Once opened in the workspace, any modification in the file will be automatically synced.&lt;/p&gt;
-&lt;h2 id=&#34;save-a-file&#34;&gt;Save a file&lt;/h2&gt;
-&lt;p&gt;You can save any file of the workspace to &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt; or &lt;strong&gt;GitHub&lt;/strong&gt; by opening the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu and clicking &lt;strong&gt;Save on&lt;/strong&gt;. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.&lt;/p&gt;
-&lt;h2 id=&#34;smartypants&#34;&gt;SmartyPants&lt;/h2&gt;
-&lt;p&gt;SmartyPants converts ASCII punctuation characters into &amp;ldquo;smart&amp;rdquo; typographic punctuation HTML entities. For example:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;ASCII&lt;/th&gt;
-&lt;th&gt;HTML&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Single backticks&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;&#39;Isn&#39;t this fun?&#39;&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&amp;lsquo;Isn&amp;rsquo;t this fun?&amp;rsquo;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Quotes&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;&amp;quot;Isn&#39;t this fun?&amp;quot;&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Isn&amp;rsquo;t this fun?&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Dashes&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;-- is en-dash, --- is em-dash&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ndash; is en-dash, &amp;mdash; is em-dash&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;katex&#34;&gt;KaTeX&lt;/h2&gt;
-&lt;p&gt;You can render LaTeX mathematical expressions using &lt;a class=&#34;link&#34; href=&#34;https://khan.github.io/KaTeX/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KaTeX&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;The &lt;em&gt;Gamma function&lt;/em&gt; satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral&lt;/p&gt;
-&lt;p&gt;$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt,.
-$$&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You can find more information about &lt;strong&gt;LaTeX&lt;/strong&gt; mathematical expressions &lt;a class=&#34;link&#34; href=&#34;http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        </item>
-        <item>
-        <title>2nd post</title>
-        <link>https://kaban.blog/blog/2nd/</link>
-        <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
-        
-        <guid>https://kaban.blog/blog/2nd/</guid>
-        <description>&lt;h1 id=&#34;files&#34;&gt;Files&lt;/h1&gt;
-&lt;p&gt;StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;раз два три&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>3rd post</title>
-        <link>https://kaban.blog/blog/3rd/</link>
-        <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
-        
-        <guid>https://kaban.blog/blog/3rd/</guid>
-        <description>&lt;h2 id=&#34;create-files-and-folders&#34;&gt;Create files and folders&lt;/h2&gt;
-&lt;p&gt;The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the &lt;strong&gt;New file&lt;/strong&gt; button in the file explorer. You can also create folders by clicking the &lt;strong&gt;New folder&lt;/strong&gt; button.&lt;/p&gt;
-&lt;h2 id=&#34;switch-to-another-file&#34;&gt;Switch to another file&lt;/h2&gt;
-&lt;p&gt;All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.&lt;/p&gt;
-&lt;h2 id=&#34;rename-a-file&#34;&gt;Rename a file&lt;/h2&gt;
-&lt;p&gt;You can rename the current file by clicking the file name in the navigation bar or by clicking the &lt;strong&gt;Rename&lt;/strong&gt; button in the file explorer.&lt;/p&gt;
-&lt;h2 id=&#34;delete-a-file&#34;&gt;Delete a file&lt;/h2&gt;
-&lt;p&gt;You can delete the current file by clicking the &lt;strong&gt;Remove&lt;/strong&gt; button in the file explorer. The file will be moved into the &lt;strong&gt;Trash&lt;/strong&gt; folder and automatically deleted after 7 days of inactivity.&lt;/p&gt;
-&lt;h2 id=&#34;export-a-file&#34;&gt;Export a file&lt;/h2&gt;
-&lt;p&gt;You can export the current file by clicking &lt;strong&gt;Export to disk&lt;/strong&gt; in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>4th post</title>
-        <link>https://kaban.blog/blog/4th/</link>
-        <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
-        
-        <guid>https://kaban.blog/blog/4th/</guid>
-        <description>&lt;h2 id=&#34;synchronize-a-file&#34;&gt;Synchronize a file&lt;/h2&gt;
-&lt;p&gt;Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.&lt;/p&gt;
-&lt;p&gt;If you just have modified your file and you want to force syncing, click the &lt;strong&gt;Synchronize now&lt;/strong&gt; button in the navigation bar.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The &lt;strong&gt;Synchronize now&lt;/strong&gt; button is disabled if you have no file to synchronize.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;manage-file-synchronization&#34;&gt;Manage file synchronization&lt;/h2&gt;
-&lt;p&gt;Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking &lt;strong&gt;File synchronization&lt;/strong&gt; in the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu. This allows you to list and remove synchronized locations that are linked to your file.&lt;/p&gt;
-&lt;h1 id=&#34;publication&#34;&gt;Publication&lt;/h1&gt;
-&lt;p&gt;Publishing in StackEdit makes it simple for you to publish online your files. Once you&amp;rsquo;re happy with a file, you can publish it to different hosting platforms like &lt;strong&gt;Blogger&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt;, &lt;strong&gt;Gist&lt;/strong&gt;, &lt;strong&gt;GitHub&lt;/strong&gt;, &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;WordPress&lt;/strong&gt; and &lt;strong&gt;Zendesk&lt;/strong&gt;. With &lt;a class=&#34;link&#34; href=&#34;http://handlebarsjs.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Handlebars templates&lt;/a&gt;, you have full control over what you export.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Before starting to publish, you must link an account in the &lt;strong&gt;Publish&lt;/strong&gt; sub-menu.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;publish-a-file&#34;&gt;Publish a File&lt;/h2&gt;
-&lt;p&gt;You can publish your file by opening the &lt;strong&gt;Publish&lt;/strong&gt; sub-menu and by clicking &lt;strong&gt;Publish to&lt;/strong&gt;. For some locations, you can choose between the following formats:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Markdown: publish the Markdown text on a website that can interpret it (&lt;strong&gt;GitHub&lt;/strong&gt; for instance),&lt;/li&gt;
-&lt;li&gt;HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;update-a-publication&#34;&gt;Update a publication&lt;/h2&gt;
-&lt;p&gt;After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the &lt;strong&gt;Publish now&lt;/strong&gt; button in the navigation bar.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The &lt;strong&gt;Publish now&lt;/strong&gt; button is disabled if your file has not been published yet.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;manage-file-publication&#34;&gt;Manage file publication&lt;/h2&gt;
-&lt;p&gt;Since one file can be published to multiple locations, you can list and manage publish locations by clicking &lt;strong&gt;File publication&lt;/strong&gt; in the &lt;strong&gt;Publish&lt;/strong&gt; sub-menu. This allows you to list and remove publication locations that are linked to your file.&lt;/p&gt;
-&lt;h1 id=&#34;markdown-extensions&#34;&gt;Markdown extensions&lt;/h1&gt;
-&lt;p&gt;StackEdit extends the standard Markdown syntax by adding extra &lt;strong&gt;Markdown extensions&lt;/strong&gt;, providing you with some nice features.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; You can disable any &lt;strong&gt;Markdown extension&lt;/strong&gt; in the &lt;strong&gt;File properties&lt;/strong&gt; dialog.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        </item>
-        <item>
-        <title>5th post</title>
-        <link>https://kaban.blog/blog/5th/</link>
-        <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
-        
-        <guid>https://kaban.blog/blog/5th/</guid>
-        <description>&lt;h2 id=&#34;uml-diagrams&#34;&gt;UML diagrams&lt;/h2&gt;
-&lt;p&gt;You can render UML diagrams using &lt;a class=&#34;link&#34; href=&#34;https://mermaidjs.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Mermaid&lt;/a&gt;. For example, this will produce a sequence diagram:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;sequenceDiagram
-Alice -&amp;gt;&amp;gt; Bob: Hello Bob, how are you?
-Bob--&amp;gt;&amp;gt;John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long&amp;lt;br/&amp;gt;long time, so long&amp;lt;br/&amp;gt;that the text does&amp;lt;br/&amp;gt;not fit on a row.
-
-Bob--&amp;gt;Alice: Checking with John...
-Alice-&amp;gt;John: Yes... John, how are you?
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And this will produce a flow chart:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;graph LR
-A[Square Rect] -- Link text --&amp;gt; B((Circle))
-A --&amp;gt; C(Round Rect)
-B --&amp;gt; D{Rhombus}
-C --&amp;gt; D
-&lt;/code&gt;&lt;/pre&gt;</description>
-        </item>
-        <item>
-        <title>6th</title>
-        <link>https://kaban.blog/blog/6th/</link>
-        <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
-        
-        <guid>https://kaban.blog/blog/6th/</guid>
-        <description>&lt;h1 id=&#34;welcome-to-stackedit&#34;&gt;Welcome to StackEdit!&lt;/h1&gt;
-&lt;p&gt;Hi! I&amp;rsquo;m your first Markdown file in &lt;strong&gt;StackEdit&lt;/strong&gt;. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the &lt;strong&gt;file explorer&lt;/strong&gt; on the left corner of the navigation bar.&lt;/p&gt;
-&lt;h1 id=&#34;files&#34;&gt;Files&lt;/h1&gt;
-&lt;p&gt;StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;create-files-and-folders&#34;&gt;Create files and folders&lt;/h2&gt;
-&lt;p&gt;The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the &lt;strong&gt;New file&lt;/strong&gt; button in the file explorer. You can also create folders by clicking the &lt;strong&gt;New folder&lt;/strong&gt; button.&lt;/p&gt;
-&lt;h2 id=&#34;switch-to-another-file&#34;&gt;Switch to another file&lt;/h2&gt;
-&lt;p&gt;All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.&lt;/p&gt;
-&lt;h2 id=&#34;rename-a-file&#34;&gt;Rename a file&lt;/h2&gt;
-&lt;p&gt;You can rename the current file by clicking the file name in the navigation bar or by clicking the &lt;strong&gt;Rename&lt;/strong&gt; button in the file explorer.&lt;/p&gt;
-&lt;h2 id=&#34;delete-a-file&#34;&gt;Delete a file&lt;/h2&gt;
-&lt;p&gt;You can delete the current file by clicking the &lt;strong&gt;Remove&lt;/strong&gt; button in the file explorer. The file will be moved into the &lt;strong&gt;Trash&lt;/strong&gt; folder and automatically deleted after 7 days of inactivity.&lt;/p&gt;
-&lt;h2 id=&#34;export-a-file&#34;&gt;Export a file&lt;/h2&gt;
-&lt;p&gt;You can export the current file by clicking &lt;strong&gt;Export to disk&lt;/strong&gt; in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.&lt;/p&gt;
-&lt;h1 id=&#34;synchronization&#34;&gt;Synchronization&lt;/h1&gt;
-&lt;p&gt;Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your &lt;strong&gt;Google Drive&lt;/strong&gt;, your &lt;strong&gt;Dropbox&lt;/strong&gt; and your &lt;strong&gt;GitHub&lt;/strong&gt; accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow&amp;hellip; The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.&lt;/p&gt;
-&lt;p&gt;There are two types of synchronization and they can complement each other:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;To start syncing your workspace, just sign in with Google in the menu.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The file synchronization will keep one file of the workspace synced with one or multiple files in &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt; or &lt;strong&gt;GitHub&lt;/strong&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Before starting to sync files, you must link an account in the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;open-a-file&#34;&gt;Open a file&lt;/h2&gt;
-&lt;p&gt;You can open a file from &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt; or &lt;strong&gt;GitHub&lt;/strong&gt; by opening the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu and clicking &lt;strong&gt;Open from&lt;/strong&gt;. Once opened in the workspace, any modification in the file will be automatically synced.&lt;/p&gt;
-&lt;h2 id=&#34;save-a-file&#34;&gt;Save a file&lt;/h2&gt;
-&lt;p&gt;You can save any file of the workspace to &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt; or &lt;strong&gt;GitHub&lt;/strong&gt; by opening the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu and clicking &lt;strong&gt;Save on&lt;/strong&gt;. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.&lt;/p&gt;
-&lt;h2 id=&#34;synchronize-a-file&#34;&gt;Synchronize a file&lt;/h2&gt;
-&lt;p&gt;Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.&lt;/p&gt;
-&lt;p&gt;If you just have modified your file and you want to force syncing, click the &lt;strong&gt;Synchronize now&lt;/strong&gt; button in the navigation bar.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The &lt;strong&gt;Synchronize now&lt;/strong&gt; button is disabled if you have no file to synchronize.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;manage-file-synchronization&#34;&gt;Manage file synchronization&lt;/h2&gt;
-&lt;p&gt;Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking &lt;strong&gt;File synchronization&lt;/strong&gt; in the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu. This allows you to list and remove synchronized locations that are linked to your file.&lt;/p&gt;
-&lt;h1 id=&#34;publication&#34;&gt;Publication&lt;/h1&gt;
-&lt;p&gt;Publishing in StackEdit makes it simple for you to publish online your files. Once you&amp;rsquo;re happy with a file, you can publish it to different hosting platforms like &lt;strong&gt;Blogger&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt;, &lt;strong&gt;Gist&lt;/strong&gt;, &lt;strong&gt;GitHub&lt;/strong&gt;, &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;WordPress&lt;/strong&gt; and &lt;strong&gt;Zendesk&lt;/strong&gt;. With &lt;a class=&#34;link&#34; href=&#34;http://handlebarsjs.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Handlebars templates&lt;/a&gt;, you have full control over what you export.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Before starting to publish, you must link an account in the &lt;strong&gt;Publish&lt;/strong&gt; sub-menu.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;publish-a-file&#34;&gt;Publish a File&lt;/h2&gt;
-&lt;p&gt;You can publish your file by opening the &lt;strong&gt;Publish&lt;/strong&gt; sub-menu and by clicking &lt;strong&gt;Publish to&lt;/strong&gt;. For some locations, you can choose between the following formats:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Markdown: publish the Markdown text on a website that can interpret it (&lt;strong&gt;GitHub&lt;/strong&gt; for instance),&lt;/li&gt;
-&lt;li&gt;HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;update-a-publication&#34;&gt;Update a publication&lt;/h2&gt;
-&lt;p&gt;After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the &lt;strong&gt;Publish now&lt;/strong&gt; button in the navigation bar.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The &lt;strong&gt;Publish now&lt;/strong&gt; button is disabled if your file has not been published yet.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;manage-file-publication&#34;&gt;Manage file publication&lt;/h2&gt;
-&lt;p&gt;Since one file can be published to multiple locations, you can list and manage publish locations by clicking &lt;strong&gt;File publication&lt;/strong&gt; in the &lt;strong&gt;Publish&lt;/strong&gt; sub-menu. This allows you to list and remove publication locations that are linked to your file.&lt;/p&gt;
-&lt;h1 id=&#34;markdown-extensions&#34;&gt;Markdown extensions&lt;/h1&gt;
-&lt;p&gt;StackEdit extends the standard Markdown syntax by adding extra &lt;strong&gt;Markdown extensions&lt;/strong&gt;, providing you with some nice features.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; You can disable any &lt;strong&gt;Markdown extension&lt;/strong&gt; in the &lt;strong&gt;File properties&lt;/strong&gt; dialog.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;smartypants&#34;&gt;SmartyPants&lt;/h2&gt;
-&lt;p&gt;SmartyPants converts ASCII punctuation characters into &amp;ldquo;smart&amp;rdquo; typographic punctuation HTML entities. For example:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;ASCII&lt;/th&gt;
-&lt;th&gt;HTML&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Single backticks&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;&#39;Isn&#39;t this fun?&#39;&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&amp;lsquo;Isn&amp;rsquo;t this fun?&amp;rsquo;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Quotes&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;&amp;quot;Isn&#39;t this fun?&amp;quot;&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Isn&amp;rsquo;t this fun?&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Dashes&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;-- is en-dash, --- is em-dash&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ndash; is en-dash, &amp;mdash; is em-dash&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;katex&#34;&gt;KaTeX&lt;/h2&gt;
-&lt;p&gt;You can render LaTeX mathematical expressions using &lt;a class=&#34;link&#34; href=&#34;https://khan.github.io/KaTeX/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KaTeX&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;The &lt;em&gt;Gamma function&lt;/em&gt; satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral&lt;/p&gt;
-&lt;p&gt;$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt,.
-$$&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You can find more information about &lt;strong&gt;LaTeX&lt;/strong&gt; mathematical expressions &lt;a class=&#34;link&#34; href=&#34;http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;uml-diagrams&#34;&gt;UML diagrams&lt;/h2&gt;
-&lt;p&gt;You can render UML diagrams using &lt;a class=&#34;link&#34; href=&#34;https://mermaidjs.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Mermaid&lt;/a&gt;. For example, this will produce a sequence diagram:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;sequenceDiagram
-Alice -&amp;gt;&amp;gt; Bob: Hello Bob, how are you?
-Bob--&amp;gt;&amp;gt;John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long&amp;lt;br/&amp;gt;long time, so long&amp;lt;br/&amp;gt;that the text does&amp;lt;br/&amp;gt;not fit on a row.
-
-Bob--&amp;gt;Alice: Checking with John...
-Alice-&amp;gt;John: Yes... John, how are you?
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And this will produce a flow chart:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;graph LR
-A[Square Rect] -- Link text --&amp;gt; B((Circle))
-A --&amp;gt; C(Round Rect)
-B --&amp;gt; D{Rhombus}
-C --&amp;gt; D
-&lt;/code&gt;&lt;/pre&gt;</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Блог Кабана</title>
+    <link>/blog/</link>
+    <description>Recent content on Блог Кабана</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>by Кабан</copyright>
+    <lastBuildDate>Wed, 15 Feb 2023 18:38:33 -0700</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1st post</title>
+      <link>/blog/1st/</link>
+      <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
+      
+      <guid>/blog/1st/</guid>
+      <description>Welcome to StackEdit!</description>
+    </item>
+    
+    <item>
+      <title>2nd post</title>
+      <link>/blog/2nd/</link>
+      <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
+      
+      <guid>/blog/2nd/</guid>
+      <description>Files StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible offline!</description>
+    </item>
+    
+    <item>
+      <title>3rd post</title>
+      <link>/blog/3rd/</link>
+      <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
+      
+      <guid>/blog/3rd/</guid>
+      <description>Create files and folders The file explorer is accessible using the button in left corner of the navigation bar.</description>
+    </item>
+    
+    <item>
+      <title>4th post</title>
+      <link>/blog/4th/</link>
+      <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
+      
+      <guid>/blog/4th/</guid>
+      <description>Synchronize a file Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification.</description>
+    </item>
+    
+    <item>
+      <title>5th post</title>
+      <link>/blog/5th/</link>
+      <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
+      
+      <guid>/blog/5th/</guid>
+      <description>UML diagrams You can render UML diagrams using Mermaid.</description>
+    </item>
+    
+    <item>
+      <title>6th</title>
+      <link>/blog/6th/</link>
+      <pubDate>Wed, 15 Feb 2023 18:38:33 -0700</pubDate>
+      
+      <guid>/blog/6th/</guid>
+      <description>Welcome to StackEdit!</description>
+    </item>
+    
+  </channel>
 </rss>
